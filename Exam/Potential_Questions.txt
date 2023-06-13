@@ -1,0 +1,10 @@
+Kiek pamenu tikrai buvo klausimas kaip veikia mapreduce: tai tipo suskirsto duomenis ten i tam tikro dydzio blokus, ir t.t. kaip ten viskas vyksta
+buvo apie spark klausimas man rods arba kaip jis veikia arba kuo skiriasi nuo hadoop/mapreduce
+buvo klausimas palyginti spark ir mapreduce ten yra 9 punktai lyg doke kuriais galima lyginti, nezinau ar visu reikia kad gerai ivertintu bet as visus buvau ismokes 😃
+man rods supaprastinta duomenu srauto schema reikejo nubrezt, doke yra kiek pamenu bet kazkaip as buvau ismokes paprasciau tai padaryt 😃
+toliau palyginti cpu ir gpu architekturas (yra foto doke), kuo jie skiriasi parasyti mzd
+kaip charakterizuojami didieji duomenys buvo
+ir buvo kazkas dar su lentele kur 2 psl doke (ta kur: sistema, abstrakcijos lygmuo, lygiagretumo tipas, infrastukturos mastas ir tiakymo klases)
+nu ir buvo 2 kodus parasyti, viena su mapreduce, kita su spark. As parasiau nrml koda bet man rods ten uztenka pseudo-koda tiktai svarbu kad pacias pagrindines funkcijas kaip "map", "reduce" ir t.t. nrml pazymetum
+MPI kur prie 2 paskaitos ir mapreduce savybes moket gal sitie buvo dar, bet not sure
+ai va, tikrai buvo kazkas apie GFS ir HDFS
